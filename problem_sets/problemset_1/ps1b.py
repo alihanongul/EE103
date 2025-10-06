@@ -1,6 +1,6 @@
 
 yearly_salary = float(input("Enter your starting yearly salary: "))
-portion_saved = float(input("Ener the percentage of your salary to save: ")) / 100
+portion_saved = float(input("Enter the percentage of your salary to save: ")) / 100
 cost_of_dream_home = float(input("Enter the cost of your dream home: "))
 semi_annual_raise = float(input("Enter your semi-annual raise percentage: ")) / 100
 
